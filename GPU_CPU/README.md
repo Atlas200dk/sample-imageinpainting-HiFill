@@ -4,7 +4,7 @@
 
 please cite the paper, if the codes has been used for your research.
 
-# architecture of HiFill
+# Architecture of HiFill
 
 ![architecture](imgs/method.jpg?raw=true)
 
@@ -23,7 +23,7 @@ please cite the paper, if the codes has been used for your research.
 * opencv
 
 # Getting Started
-## steps
+## Steps
 
 * clone this repo:
 
