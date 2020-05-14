@@ -8,32 +8,6 @@ please cite the paper, if the codes has been used for your research.
 
 ![architecture](imgs/method.jpg?raw=true)
 
-# How to setup
-
-## Prerequisites
-
-* Linux
-
-* Python 3
-
-* numpy
-
-* TensorFlow 1.6 or later
-
-* opencv
-
-# Getting Started
-## Steps
-
-* clone this repo:
-
-* run test on provided samples:
-
-```
-python test.py 
-```
-
-
 # Experimental results:
 
 ![HD](imgs/hd.jpg?raw=true)
@@ -41,6 +15,7 @@ python test.py
 
 demo video to be added
 
-# Acknowledgments
+# Implementation
 
-Thanks Derek Qian Wang for helping convert the model to Huawei's Da vanci AI chip (Ascend 310)!
+* [Implementation on Huawei Ascend 310 AI Processor](./Huawei_Ascend)
+* [Implementation on GPU/CPU](./GPU_CPU)
