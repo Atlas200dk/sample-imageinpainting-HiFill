@@ -4,18 +4,18 @@
 
 please cite the paper, if the codes has been used for your research.
 
-# Architecture of HiFill
+## Architecture of HiFill
 
 ![architecture](imgs/method.jpg?raw=true)
 
-# Experimental results:
+## Experimental results:
 
 ![HD](imgs/hd.jpg?raw=true)
 ![compare](imgs/compare.jpg?raw=true)
 
 demo video to be added
 
-# Implementation
+## Implementation
 
 * [Implementation on Huawei Ascend 310 AI Processor](./Huawei_Ascend)
 * [Implementation on GPU/CPU](./GPU_CPU)
