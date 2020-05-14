@@ -29,8 +29,8 @@ python test.py
 
 ## Experimental results:
 
-![HD](imgs/hd.jpg?raw=true)
-![compare](imgs/compare.jpg?raw=true)
+![HD](../imgs/hd.jpg?raw=true)
+![compare](../imgs/compare.jpg?raw=true)
 
 demo video to be added
 
