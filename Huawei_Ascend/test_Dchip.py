@@ -152,8 +152,8 @@ class Inpaint_App(object):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Inpaint App")
-    parser.add_argument('--images', type=str, default='../samples/testset')
-    parser.add_argument('--masks', type=str, default='../samples/maskset')
+    parser.add_argument('--images', type=str, default='./samples/testset')
+    parser.add_argument('--masks', type=str, default='./samples/maskset')
     parser.add_argument('--inpaint_model', type=str, default='./inpaint.om')
     parser.add_argument('--matmul_model', type=str, default='./matmul.om')
     parser.add_argument('--output_dir', type=str, default='./samples_result')
