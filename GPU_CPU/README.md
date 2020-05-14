@@ -1,5 +1,5 @@
 
- # CVPR 2020 oral paper on HiFill
+ # CVPR 2020 Oral Paper on HiFill
 <a href="">Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting</a>
 
 please cite the paper, if the codes has been used for your research.
