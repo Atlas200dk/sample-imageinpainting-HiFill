@@ -124,8 +124,8 @@ def read_imgs_masks(args):
 
 parser = argparse.ArgumentParser()
 args = parser.parse_args()
-args.images = 'samples/testset' # input image directory
-args.masks = 'samples/maskset' # input mask director
+args.images = '../samples/testset' # input image directory
+args.masks = '../samples/maskset' # input mask director
 args.output_dir = './results' # output directory
 args.multiple = 6 # multiples of image resizing 
 
