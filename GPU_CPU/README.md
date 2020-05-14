@@ -1,12 +1,7 @@
 
- # CVPR 2020 Oral Paper on HiFill
-<a href="">Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting</a>
+ # HiFill on GPU/CPU with Tensorflow
 
 please cite the paper, if the codes has been used for your research.
-
-# Architecture of HiFill
-
-![architecture](imgs/method.jpg?raw=true)
 
 # How to setup
 
@@ -25,7 +20,7 @@ please cite the paper, if the codes has been used for your research.
 # Getting Started
 ## Steps
 
-* clone this repo:
+* Clone this repo:
 
 * run test on provided samples:
 
@@ -41,6 +36,3 @@ python test.py
 
 demo video to be added
 
-# Acknowledgments
-
-Thanks Derek Qian Wang for helping convert the model to Huawei's Da vanci AI chip (Ascend 310)!
