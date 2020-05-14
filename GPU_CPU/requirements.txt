@@ -1,3 +1,0 @@
-tensorflow-gpu=1.6
-opencv
-
