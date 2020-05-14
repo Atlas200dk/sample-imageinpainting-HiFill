@@ -3,8 +3,6 @@
 
 please cite the paper, if the codes has been used for your research.
 
-# How to setup
-
 ## Prerequisites
 
 * Linux
@@ -17,8 +15,8 @@ please cite the paper, if the codes has been used for your research.
 
 * opencv
 
-# Getting Started
-## Steps
+## Getting Started
+### Steps
 
 * Clone this repo:
 
@@ -29,7 +27,7 @@ python test.py
 ```
 
 
-# Experimental results:
+## Experimental results:
 
 ![HD](imgs/hd.jpg?raw=true)
 ![compare](imgs/compare.jpg?raw=true)
