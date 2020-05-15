@@ -1,12 +1,14 @@
 
- # CVPR 2020 Oral Paper on HiFill
+ # Image Inpainting Project based on CVPR 2020 Oral Paper on HiFill
 <a href="">Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting</a>
 
+Explanation of the model can be found [here](https://github.com/Atlas200dk-test/HiFILL_model)
 please cite the paper, if the codes has been used for your research.
 
-## Architecture of HiFill
+## Project Diagram
 
-![architecture](imgs/method.jpg?raw=true)
+![Diagram_1](imgs/diagram_1.png?raw=true)
+
 
 ## Experimental results:
 
