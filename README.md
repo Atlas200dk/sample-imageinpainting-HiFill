@@ -10,6 +10,10 @@ please cite the paper, if the codes has been used for your research.
 
 ![Diagram_1](imgs/diagram_1.png?raw=true)
 
+## Implementation
+
+* [Implementation on Huawei Ascend 310 AI Processor](./Huawei_Ascend)
+* [Implementation on GPU/CPU](./GPU_CPU)
 
 ## Experimental results:
 
@@ -18,7 +22,3 @@ please cite the paper, if the codes has been used for your research.
 
 demo video to be added
 
-## Implementation
-
-* [Implementation on Huawei Ascend 310 AI Processor](./Huawei_Ascend)
-* [Implementation on GPU/CPU](./GPU_CPU)
