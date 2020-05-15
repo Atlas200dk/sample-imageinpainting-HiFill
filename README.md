@@ -3,6 +3,7 @@
 <a href="">Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting</a>
 
 Explanation of the model can be found [here](https://github.com/Atlas200dk-test/HiFILL_model)
+
 please cite the paper, if the codes has been used for your research.
 
 ## Project Diagram
