@@ -53,20 +53,12 @@ if __name__ == '__main__':
         1024*1024).astype(np.float32).reshape(1024, 1024)
     y = np.random.random(
         1024*3072).astype(np.float32).reshape(1024,3072)
-    # np.save('matmul/x.npy',x)
-    # np.save('matmul/y.npy',y)
-    # x = np.load('mountain_img/x_m.npy').reshape(1024, 1024).copy()
-    # y = np.load('mountain_img/y_0.npy')
-    # x.tofile('matmul/x.bin')
-    # y.tofile('matmul/y.bin')
-    # expected = np.matmul(x,y)
-    # expected.tofile('matmul/expected.bin')
 
     matmul_app = MatMulInference(model)
     
     result = matmul_app.Inference(x,y)
+    
     print(result)
-    result.tofile('matmul/result.bin')
 
 
 
