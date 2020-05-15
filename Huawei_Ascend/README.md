@@ -15,7 +15,7 @@ Before deploying this sample, ensure that the development environment for Atlas2
 
 ### Software Preparation
 
-Before running this application, download or git clone the whole repository to any directory on Ubuntu Server where  Mind Studio  is located, and copy the folder of [samples](https://github.com/Atlas200dk-test/HIFILL/tree/master/samples) to the directory of [Huawei_Ascend](https://github.com/Atlas200dk-test/HIFILL/tree/master/Huawei_Ascend).
+Before running this application, download or git clone the whole repository to any directory on Ubuntu Server where  Mind Studio  is located, and copy the folder of [samples](https://github.com/Atlas200dk/sample-imageinpainting-HiFill/tree/master/samples) to the directory of [Huawei_Ascend](https://github.com/Atlas200dk/sample-imageinpainting-HiFill/tree/master/Huawei_Ascend).
 
 
 ### Setup Python Environment on Atlas200DK Board
