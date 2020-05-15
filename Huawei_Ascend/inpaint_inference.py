@@ -37,9 +37,8 @@ class InpaintInference(object):
         nntensorList=hiai.NNTensorList([input_tensor_list[0],input_tensor_list[1]])
         if not nntensorList:			
             print("nntensorList is null")
-        tic = time.time()
+            
         resultList = self.model.Inference(self.graph, nntensorList)
-        toc = time.time()
 
         inpainted_512 = resultList[0]
         attention = resultList[1]
@@ -55,11 +54,11 @@ class InpaintInference(object):
         attention = attention.transpose(0,2,3,1)
         mask_512_new = mask_512_new.transpose(0,2,3,1)
 
-        print("inference time: ",toc-tic)
         return inpainted_512,attention,mask_512_new
 
 if __name__ == '__main__':
-
+    
+    #prepare binary files 'img_1.chw' and 'mask_1.chw' to test the model itself
     parser = argparse.ArgumentParser(description="Test om model accuracy")
     parser.add_argument('--model', type=str, default='./inpaint.om')
     parser.add_argument("-i", "--input_bins", help="input_bins bins. e.g. './a.bin;./c.bin'", default = 'img_1.chw;mask_1.chw')
