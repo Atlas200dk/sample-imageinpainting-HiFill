@@ -32,5 +32,5 @@ please cite the paper, if the codes has been used for your research.
 ![HD](imgs/hd.jpg?raw=true)
 ![compare](imgs/compare.jpg?raw=true)
 
-[![HiFill oral]]( https://www.youtube.com/watch?v=Q7mX5Bstv7U)
+[youtube video]]( https://www.youtube.com/watch?v=Q7mX5Bstv7U)
 
