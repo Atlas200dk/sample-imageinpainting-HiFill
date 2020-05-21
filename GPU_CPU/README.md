@@ -3,6 +3,20 @@
 
 please cite the paper, if the codes has been used for your research.
 
+```
+@misc{yi2020contextual,
+    title={Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting},
+    author={Zili Yi and Qiang Tang and Shekoofeh Azizi and Daesik Jang and Zhan Xu},
+    year={2020},
+    eprint={2005.09704},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
+<a href="https://www.youtube.com/watch?v=Q7mX5Bstv7U">Youtube video</a>
+
+
 ## Prerequisites
 
 * Linux
@@ -11,7 +25,7 @@ please cite the paper, if the codes has been used for your research.
 
 * numpy
 
-* TensorFlow 1.6 or later
+* TensorFlow 1.13
 
 * opencv
 
@@ -32,5 +46,4 @@ python test.py
 ![HD](../imgs/hd.jpg?raw=true)
 ![compare](../imgs/compare.jpg?raw=true)
 
-demo video to be added
 
