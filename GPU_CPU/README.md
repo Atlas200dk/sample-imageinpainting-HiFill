@@ -42,6 +42,8 @@ python test.py
 
 * pretrained model on places2 is attached in the repositary as a pb file:
 
+<a href="https://github.com/Atlas200dk/sample-imageinpainting-HiFill/tree/master/GPU_CPU/pb">pretrained model on places2</a>
+
 ## Experimental results:
 
 ![HD](../imgs/hd.jpg?raw=true)
