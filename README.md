@@ -18,6 +18,8 @@ please cite the paper, if the codes has been used for your research.
 }
 ```
 
+<a href="https://www.youtube.com/watch?v=Q7mX5Bstv7U">Youtube video</a>
+
 ## Project Diagram
 
 ![Diagram_1](imgs/diagram_1.png?raw=true)
@@ -31,5 +33,3 @@ please cite the paper, if the codes has been used for your research.
 
 ![HD](imgs/hd.jpg?raw=true)
 ![compare](imgs/compare.jpg?raw=true)
-
-<a href="https://www.youtube.com/watch?v=Q7mX5Bstv7U">Youtube video</a>
