@@ -40,6 +40,7 @@ please cite the paper, if the codes has been used for your research.
 python test.py 
 ```
 
+* pretrained model on places2 is attached in the repositary as a pb file:
 
 ## Experimental results:
 
