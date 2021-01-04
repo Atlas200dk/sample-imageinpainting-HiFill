@@ -8,13 +8,12 @@ please cite the paper, if the codes has been used for your research.
 
 
 ```
-@misc{yi2020contextual,
-    title={Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting},
-    author={Zili Yi and Qiang Tang and Shekoofeh Azizi and Daesik Jang and Zhan Xu},
-    year={2020},
-    eprint={2005.09704},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@inproceedings{yi2020contextual,
+  title={Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting},
+  author={Yi, Zili and Tang, Qiang and Azizi, Shekoofeh and Jang, Daesik and Xu, Zhan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7508--7517},
+  year={2020}
 }
 ```
 
