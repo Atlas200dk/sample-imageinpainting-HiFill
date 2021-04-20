@@ -1,5 +1,7 @@
 # HiFIll Image Inpainting on Ascend AI Processor \(Python\)
 
+For implementation on recent CANN version, please refer to https://github.com/Ascend/samples/tree/master/python/level2_simple_inference/6_other/imageinpainting_hifill
+
 ## Project Overview
 This project is implementation of HiFill Image Inpainting on Atlas200DK board.
  
